@@ -29,7 +29,7 @@ print(robots)
 
 print("\nRealitzant scraping")
 
-#bucle per recorrer les 500 pagines d'habitaclia
+#bucle per recorrer les  pagines d'habitaclia
 for i in range(1, MAX_PAGES):
 
     if i < 1:
