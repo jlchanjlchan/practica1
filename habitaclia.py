@@ -107,7 +107,7 @@ for i in range(1, MAX_PAGES):
                 if counter>preuslength:
                    counter=0
                 
-       else:
+        else:
         # Si no existeix la página i retorna error 400
             break 
 
